@@ -1,9 +1,20 @@
-## Hi there 👋
-I'm vizmi, software developer by day, RPG story writer by night.
+## Hi, I'm Mihaly 👋
 
-I believe writing code and crafting stories are two sides of the same creative coin. When developing, I write for other developers — creating narratives through clean code and thoughtful documentation that guide them through the adventure of my codebase. I'm a passionate RPG game master, designing worlds and creating adventures where players become the protagonists.
+I'm a software developer who builds thoughtful, maintainable applications. I enjoy turning complex rules into approachable tools, from RPG character generators and dice systems to reliable everyday applications.
 
-My repositories showcase this dual storytelling approach: code that speaks clearly to its readers, and RPG campaigns that invite players into immersive experiences. Both require understanding your audience, careful pacing, and attention to detail. I'm currently working toward my next big quest: writing a full-length campaign, applying the same structured creativity that makes both good code and compelling adventures.
+I build software with three principles in mind:
+
+### Choose the right tool for the problem
+
+Technologies are means, not identities. I choose the approach that best fits the constraints and makes the work straightforward.
+
+### Prefer the simplest complete solution
+
+Complexity has a long-term cost, so I avoid it unless it genuinely earns its place.
+
+### Make code tell a story
+
+Good code communicates not only *what* it does, but *why* it was designed that way. The “why” - captured through clear structure, names, tests, and focused documentation - makes software far easier to understand, trust, and safely evolve.
 
 ## My repositories
 
