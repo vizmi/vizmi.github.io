@@ -8,13 +8,13 @@ My repositories showcase this dual storytelling approach: code that speaks clear
 ## My repositories
 
 ### Discord bots
-These bots use the javascript discord API to implement the rolling rules of the corresponding RPG. Shadowrun was a little more complex due the the different edge reroll options, but at the same time it was a lot more fun to do!
+These bots use the JavaScript Discord API to implement the rolling rules of the corresponding RPG. Shadowrun was a little more complex because of its different Edge re-roll options, but it was also more fun to build!
 * [Shadowrun 4 Anniversary Edition](https://github.com/vizmi/sr4a-discord-bot)
 * [Earthdawn 4 Edition](https://github.com/vizmi/earthdawn-discord-bot)
 
 ### Character generators
-Well, I only have one right now, but I love to try new technologies on these non trivial design/coding problems. 
-* [Shadowrun 4 character generator](https://github.com/vizmi/sr4a-chargen) - A showcase for sveltekit, cursor and google auth
+Well, I only have one right now, but I love to try new technologies on these non trivial design/coding problems.
+* [Cloning Vat](https://github.com/vizmi/cloning-vat) - A Cyberpunk 2020 character generator.
 
 ### Other side quests
-* [parking-mgr](https://github.com/vizmi/parking-mgr) - Was created to see if redis can act as an atomicity manager in a non trivial architecture.
+* [parking-mgr](https://github.com/vizmi/parking-mgr) - Created to see whether Redis can act as an atomicity manager in a non-trivial architecture.
