@@ -14,7 +14,8 @@ These bots use the JavaScript Discord API to implement the rolling rules of the 
 
 ### Character generators
 Well, I only have one right now, but I love to try new technologies on these non trivial design/coding problems.
-* [Cloning Vat](https://github.com/vizmi/cloning-vat) - A Cyberpunk 2020 character generator.
+* [Cloning Vat](https://github.com/vizmi/cloning-vat) [[running](http://vizmi.github.io/cloning-vat)] - A Cyberpunk 2020 character generator using Vue.
 
 ### Other side quests
-* [parking-mgr](https://github.com/vizmi/parking-mgr) - Created to see whether Redis can act as an atomicity manager in a non-trivial architecture.
+* [Rolldozer](https://github.com/vizmi/rolldozer) [[running](vizmi.github.io/rolldozer)] - Dice roller with React and local storage.
+* [Parking Manager](https://github.com/vizmi/parking-mgr) - Created to see whether Redis can act as an atomicity manager in a non-trivial architecture.
